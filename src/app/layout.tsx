@@ -10,8 +10,8 @@ export const metadata: Metadata = {
   description:
     "Keep track of your pantry items by scanning barcodes or entering them manually.",
   icons: {
-    icon: [{ url: "/favicon.ico", type: "image/x-icon" }],
-    shortcut: [{ url: "/favicon.ico", type: "image/x-icon" }],
+    icon: [{ url: "/favicon.png", type: "image/png" }],
+    shortcut: [{ url: "/favicon.png", type: "image/png" }],
   },
 };
 
